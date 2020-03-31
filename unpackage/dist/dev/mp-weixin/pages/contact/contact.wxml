@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/photo/pic1.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['callPhone',['$event']]]]]}}" bindtap="__e">联系电话：18409441016 (点击拨打)</view><view>联系地址：北宋国西北都护府天山区灵鹫宫1号</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" markers="{{markers}}" scale="{{scale}}"></map></view>

@@ -15,6 +15,35 @@
             "path" : "pages/news/news",
             "style" : {}
         }
+        ,{
+            "path" : "pages/contact/contact",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/pics/pics",
+            "style" : {
+				"navigationBarTitleText":"社区图片"
+			}
+        },
+		{
+            "path" : "pages/videos/videos",
+            "style" : {}
+        },
+		{
+            "path" : "pages/goods/goods",
+            "style" : {
+				"navigationBarTitleText":"商品列表",
+				"enablePullDownRefresh":true
+			}
+        }
+        ,{
+            "path" : "pages/newsDetail/newsDetail",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/goodsDetail/goodsDetail",
+            "style" : {}
+        }
     ],
 	"globalStyle": {
 		"navigationBarTextStyle": "white",

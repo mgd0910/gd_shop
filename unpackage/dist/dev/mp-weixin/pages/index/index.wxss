@@ -57,4 +57,18 @@
 .index .nav .nav_item .icon-tupian {
       font-size: 45rpx;
 }
+.index .hot_goods {
+  background-color: #eee;
+  overflow: hidden;
+  margin-top: 20rpx;
+}
+.index .hot_goods .tit {
+    height: 100rpx;
+    line-height: 100rpx;
+    color: #b50e03;
+    text-align: center;
+    letter-spacing: 40rpx;
+    background-color: #fff;
+    margin: 7rpx 0;
+}
 

@@ -3,7 +3,13 @@
     "pages/index/index",
     "pages/shopcar/shopcar",
     "pages/member/member",
-    "pages/news/news"
+    "pages/news/news",
+    "pages/contact/contact",
+    "pages/pics/pics",
+    "pages/videos/videos",
+    "pages/goods/goods",
+    "pages/newsDetail/newsDetail",
+    "pages/goodsDetail/goodsDetail"
   ],
   "subPackages": [],
   "window": {

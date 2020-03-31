@@ -1,0 +1,1 @@
+<view class="goods_list"><goods-list vue-id="576f0adc-1" data="{{goods}}" data-event-opts="{{[['^goodsItemClick',[['goGoodsDetail']]]]}}" bind:goodsItemClick="__e" bind:__l="__l"></goods-list><block wx:if="{{flag}}"><view class="isOver">------已加载全部数据------</view></block></view>
